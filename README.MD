@@ -1,1 +1,0 @@
-this is an image slideshow assignment for zuri
